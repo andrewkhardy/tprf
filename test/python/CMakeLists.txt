@@ -56,6 +56,7 @@ set(all_tests
   eliashberg/symmetrize_delta
   eliashberg/compare_dlr_and_direct
   eliashberg/dlr_eliashberg_solver
+  eliashberg/nonlinear_eliashberg_solver
 )
 
 foreach(test ${all_tests})
