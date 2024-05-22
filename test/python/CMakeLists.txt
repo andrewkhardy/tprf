@@ -57,6 +57,7 @@ set(all_tests
   eliashberg/compare_dlr_and_direct
   eliashberg/dlr_eliashberg_solver
   eliashberg/nonlinear_eliashberg_solver
+  eliashberg/finite_momentum
 )
 
 foreach(test ${all_tests})
