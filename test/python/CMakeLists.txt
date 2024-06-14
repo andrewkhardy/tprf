@@ -58,6 +58,7 @@ set(all_tests
   eliashberg/dlr_eliashberg_solver
   eliashberg/nonlinear_eliashberg_solver
   eliashberg/finite_momentum
+  eliashberg/nonlinear_eliashberg_initialguess
 )
 
 foreach(test ${all_tests})
